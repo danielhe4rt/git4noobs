@@ -20,4 +20,4 @@ Com o `--soft` podemos voltar para uma hash de um commit mantendo os arquivos ed
 git reset --soft d60329e
 ```
 
-Ir para: [3.11. Fetch](../3-comandos/fetch.md)
+Ir para: [3.11. Revert](../3-comandos/revert.md)
