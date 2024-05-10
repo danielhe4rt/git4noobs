@@ -82,4 +82,4 @@ Caso erremos durante o rebase podemos abortá-lo para não perder o código e co
 git rebase --abort
 ```
 
-Ir para: [3.11. Reset](reset.md)
+Ir para: [3.10. Reset](reset.md)

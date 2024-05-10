@@ -14,4 +14,4 @@ Ou podemos especificar uma branch:
 git fetch origin master
 ```
 
-Ir para: [3.11. Log](../3-comandos/log.md)
+Ir para: [3.13. Log](../3-comandos/log.md)

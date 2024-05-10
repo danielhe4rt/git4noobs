@@ -29,11 +29,11 @@
 8.  [Tag](/3-comandos/tag.md)
 9.  [Rebase](/3-comandos/rebase.md)
 10. [Reset](/3-comandos/reset.md)
-11. [Fetch](/3-comandos/fetch.md)
-12. [Log](/3-comandos/log.md)
-13. [Stash](3-comandos/stash.md)
-14. [Cherry-pick](/3-comandos/cherry-pick.md)
-
+11. [Revert](/3-comandos/revert.md)
+12. [Fetch](/3-comandos/fetch.md)
+13. [Log](/3-comandos/log.md)
+14. [Stash](3-comandos/stash.md)
+15. [Cherry-pick](/3-comandos/cherry-pick.md)
 
 ### GitFlow
 

@@ -132,3 +132,4 @@ O comando `cherry-pick` pode ser usado em conjunto com outros comandos, conhecid
 
 Sim, existem várias possibilidades de uso do comando `cherry-pick`. Você pode ver mais detalhes sobre o comando `cherry-pick` na [documentação oficial](https://git-scm.com/docs/git-cherry-pick/pt_BR).
 
+Ir para: [4.1. Gitflow - O que é Git Flow](../4-gitflow/o-que-e-gitflow.md)

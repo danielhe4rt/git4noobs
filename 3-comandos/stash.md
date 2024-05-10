@@ -138,3 +138,5 @@ Vamos testar na pratica ainda com a pasta que você criou:
 O comando `git stash` pode ser útil em varios casos diversos e definitivamente é uma comando
 poderoso para se ter ciência, vale a pena conferir na [documentação](https://git-scm.com/docs/git-stash) 
 para aprender mais sobre esse comando.
+
+Ir para: [3.15. Cherry-pick](cherry-pick.md)
